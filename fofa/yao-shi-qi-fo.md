@@ -7,9 +7,8 @@ tags:
   - 如來
 description: ""
 ---
-![[Yao-Shi-Fo-lg.png]]
+![Yao-Shi-Fo-lg](Yao-Shi-Fo-lg.png)
 
-<center>
 **南無藥師琉璃光王如來**
 **南無善名稱吉祥王如來**
 **南無寶月智嚴光音自在王如來**
@@ -17,4 +16,3 @@ description: ""
 **南無無憂最勝吉祥如來**
 **南無法海雷音如來**
 **南無法海勝慧遊戲神通如來**
-</center>
