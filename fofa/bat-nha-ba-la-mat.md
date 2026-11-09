@@ -5,7 +5,7 @@ lastmod: 2026-11-05T14:47:54+07:00
 draft: false
 tags:
   - 論典
-description: ""
+description: "Bát Nhã Ba La Mật là thứ trí tuệ có khả năng nhận thức vũ trụ vạn hữu. Vì là một công năng nhận thức cho nên trí tuệ không có kích thước: ngắn, dài, rộng, hẹp... Cũng không có màu sắc: đỏ, trắng, xanh, vàng... Lẽ ra nó cũng chẳng có danh xưng."
 ---
 > ***PHẬT THUYẾT BÁT NHÃ BA LA MẬT, TỨC PHI BÁT NHÃ BA LA MẬT, THỊ DANH BÁT NHÃ BA LA MẬT.***
 
