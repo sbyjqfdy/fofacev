@@ -7,7 +7,6 @@ tags:
   - 如來
 description: ""
 ---
-![Yao-Shi-Fo-lg](Yao-Shi-Fo-lg.png)
 
 - **南無藥師琉璃光王如來**
 
