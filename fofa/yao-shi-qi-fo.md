@@ -7,8 +7,8 @@ tags:
   - 如來
 description: ""
 ---
+![藥師佛](/posts/img/Yao-Shi-Fo-lg.png)
 
-![藥師佛](img/Yao-Shi-Fo-lg.png)
 - **南無藥師琉璃光王如來**
 
 - **南無善名稱吉祥王如來**
