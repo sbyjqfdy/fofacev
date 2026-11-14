@@ -1,11 +1,8 @@
 ---
 title: Order of Adjectives
-date: 2026-11-11T08:46:46+07:00
-lastmod: 2026-11-11T08:46:46+07:00
-draft: false
 tags:
   - English
-description: the standard English royal order of adjectives
+summary: the standard English royal order of adjectives
 ---
 ![order-of-adj](order-of-adj.jpg)
 
