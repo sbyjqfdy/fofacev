@@ -5,7 +5,6 @@ tags:
 summary: the standard English royal order of adjectives
 ---
 ![order-of-adj](order-of-adj.jpg)
-
 #### **D.OSAS.COMP**
 
 1. **Determiner**: a, an, the, this, that, these, those

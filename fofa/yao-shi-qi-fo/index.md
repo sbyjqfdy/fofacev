@@ -1,13 +1,11 @@
 ---
 title: 藥師七佛
 date: 2026-11-10T08:21:44+07:00
-lastmod: 2026-11-10T08:21:44+07:00
-draft: false
 tags:
   - 如來
-description: ""
+summary: 藥師琉璃光王如來
 ---
-![yao-shi-qi-fo](yao-shi-qi-fo.png)
+![藥師七佛](yao-shi-qi-fo.png)
 
 - **南無藥師琉璃光王如來**
 

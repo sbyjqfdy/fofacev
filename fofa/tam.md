@@ -1,11 +1,9 @@
 ---
 title: TÂM
 date: 2026-11-04T20:44:13+07:00
-lastmod: 2026-11-04T20:44:13+07:00
-draft: false
 tags:
   - 論典
-description: TÂM là chỉ sự bao hàm, sự dung nhiếp và duy trì sự vật hiện tượng tồn tại trong mối liên hệ mật thiết bất khả phân ly.
+summary: TÂM là chỉ sự bao hàm, sự dung nhiếp và duy trì sự vật hiện tượng tồn tại trong mối liên hệ mật thiết bất khả phân ly.
 ---
 Theo giáo lý Phật, TÂM là ngôn thuyết giả danh để chỉ một TỔNG thể bao trùm tất cả BIỆT thể. Một ĐỒNG thể dung nhiếp hết thảy DỊ thể. Một THÀNH thể tồn tại trong HOẠI thể của hiện tượng vạn pháp. Nói cách khác: TÂM là chỉ sự bao hàm, sự dung nhiếp và duy trì sự vật hiện tượng tồn tại trong mối liên hệ mật thiết bất khả phân ly. Mọi sự vật tồn tại, đều được biểu hiện qua "Sáu tướng viên dung". Nhìn ở mặt BIỆT, DỊ, HOẠI, ta sẽ thấy tướng riêng của sự vật hiện tượng. Nhìn qua mặt TỔNG, ĐỒNG, THÀNH, ta nhận thức được tánh chung của vạn pháp.  
 
