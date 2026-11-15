@@ -5,7 +5,9 @@ tags:
 summary: the standard English royal order of adjectives
 ---
 ![order-of-adj](order-of-adj.jpg)
-#### **D.OSAS.COMP**
+{{< center >}}
+## **D.OSAS.COMP**
+{{< /center >}}
 
 1. **Determiner**: a, an, the, this, that, these, those
 2. **Opinion**: great, terrible, pretty, lovely, silly, beautiful, horrible, difficult
