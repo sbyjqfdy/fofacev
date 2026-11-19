@@ -15,7 +15,7 @@ Vì sao Như Lai phủ nhận sự thuyết pháp của mình trong suốt cuộ
 
 2. Đã có lần Phật nói: Những pháp Phật đã nói, ít như chút đất dính ở móng tay, còn pháp Phật chưa nói đến, nhiều như đất của ba ngàn đại thiên thế giới. Nếu nói, Phật nói pháp, chấp chặt pháp Phật nói thì mắc tội đóng khung tri kiến Phật. Tri kiến Như Lai không chỉ gói gọn trong những ngôn từ văn tự ghi lại trong kinh điển mà người ta cho là pháp của Như Lai nói.
 
-##### THẾ GIỚI VÀ VI TRẦN
+## THẾ GIỚI VÀ VI TRẦN
 
 Nếu bảo rằng thế giới chỉ có một, thế giới ít, vi trần vô lượng vô số, vi trần nhiều. Nói như vậy không đúng. Thử hỏi: vi trần nhiều, vậy vi trần từ đâu mà có? Thế giới ít, thế giới kết hợp bởi những gì? Chẳng qua, thấy vi trần nhiều, do ta nhìn ở mặt DỊ. Nhìn thế giới ít, do ta thấy phía mặt ĐỒNG. Vi trần nhiều do nhìn ở mặt HOẠI và DIỆT của thế giới. Thế giới ít do nhìn ở mặt TỔNG và THÀNH. Vi trần và thế giới không phải khác mà cũng không phải một.
 
@@ -23,7 +23,7 @@ Nếu bảo rằng thế giới chỉ có một, thế giới ít, vi trần vô
 
 > ***NHƯ LAI THUYẾT VI TRẦN, TỨC PHI VI TRẦN, THỊ DANH VI TRẦN. NHƯ LAI THUYẾT THẾ GIỚI, TỨC PHI THẾ GIỚI, THỊ DANH THẾ GIỚI.***
 
-##### TAM THẬP NHỊ TƯỚNG
+## TAM THẬP NHỊ TƯỚNG
 
 Rằng Như Lai có 32 tướng tốt, Như Lai nói đó là những tướng của tướng sư, theo sự thấy biết của họ mà đề ra. Phỏng sử có tướng sư khác theo sự thấy biết của mình, ông ta viện ra thêm hai tướng nữa. Thế là một Như Lai có 34 tướng tốt! Một tướng sư khác, cũng theo sự thấy biết của mình, nhìn xem kỹ càng, ông ta tuyên bố rõ là Như Lai có 30 tướng chẵn. Thế nào? Phật có vì thế mà tăng giảm địa vị vô thượng chánh đẳng chánh giác của Như Lai? Như Lai, Phật là căn cứ trình độ giác ngộ chân lý trọn vẹn, giải thoát vô minh phiền não tận cùng. Vấn đề 30, 32, hay 34 tướng, tùy trình độ hiểu biết và ấn định của các tướng sư.
 
