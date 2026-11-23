@@ -3,13 +3,12 @@ title: Tĩnh lặng, nước trôi...
 date: 2026-11-23T08:50:46+07:00
 tags:
   - 靜慮
-summary: Bài pháp thoại được giảng tại chùa Tham Saeng Phet, trong mùa an cư năm 1981.
+summary: Bài pháp thoại được Tỳ-khưu Thanissaro (Geoffrey DeGraff) giảng tại chùa Tham Saeng Phet, trong mùa an cư năm 1981.
 ---
 Mọi người hãy chú ý. Đừng chú ý đến người này, người kia. Hãy cảm giác như quý vị đang ngồi một mình trên núi hay trong rừng sâu đâu đó, chỉ một mình.
 
-|                     ![](tinh-lang-nuoc-troi.jpg)                     |
-| :------------------------------------------------------------------------------: |
-| *Phải hiểu rằng cái đang ngồi đây trong khoảnh khắc hiện tại chỉ là thân và tâm* |
+![tinh-lang-nuoc-troi](tinh-lang-nuoc-troi.jpg)
+
 Ngay lúc này, ngồi đây, quý vị có gì? Chỉ có thân và tâm, chỉ có hai thứ này. Tất cả những gì trong khối vật chất này là “thân”. “Tâm” là cái đang biết các cảm giác và đang suy nghĩ trong hiện tại. Hai thứ này cũng được gọi là _danh_ “_nāma_” và _sắc_ “_rūpa_”. _Danh_ là cái không có _sắc_, không có hình tướng. Tất cả các tâm hành và cảm thọ như cảm giác, tưởng, hành, thức đều là _danh_. Chúng đều vô hình. Khi mắt thấy hình sắc, những hình sắc ấy gọi là _sắc_. Sự nhận biết hình sắc gọi là _danh_. Hai thứ gọi chung là _danh_ và _sắc_, hay đơn giản là thân và tâm.
 
 Phải hiểu rằng cái đang ngồi đây trong khoảnh khắc hiện tại chỉ là thân và tâm. Mọi thứ đều xuất phát từ hai thứ này. Nếu quý vị muốn có sự an lạc, đây là hai thứ duy nhất quý vị phải biết. Nhưng tâm hiện tại vẫn chưa được huấn luyện. Nó uế nhiễm. Không trong sạch. Không phải là tâm thanh tịnh. Ta phải rèn luyện nó bằng cách thực hành thiền.
