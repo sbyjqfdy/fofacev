@@ -38,6 +38,7 @@ _Học hành không thiếu cũng không dư_\
 _Đến nay tính lại đà quên hết_\
 _Chỉ nhớ trên đầu một chữ Như._
 {{< /center >}} 
+
 Đức Phật có một số bài kinh dạy về pháp chữ Như này. Trong kinh _AN 4.24_, Đức Phật dạy rằng cái nhìn của bậc Như Lai là, khi thấy, nghe, cảm thọ, nhận biết thì đừng tưởng tượng (ngài Bodhi dịch là “do not misconceive” đừng nghĩ sai về; trong khi ngài Sujato dịch là “do not conceive” là đừng nghĩ thêm ra) hay đừng hình dung gì thêm, dù là tưởng tượng hay hình dung về cái được thấy, cái không được thấy, cái sẽ được thấy, và cái người thấy. Cái tuyệt vời của kinh này là, ngài Bodhi và Sujato dịch bằng 2 chữ trái nghịch nhau nhưng đều diễn tả được ý của Như Lai. Bản dịch của Thầy Minh Châu như sau, trích:
 
 “_Như vậy, này các Tỷ-kheo, Như Lai là vị đã thấy những gì cần thấy, nhưng không có tưởng tượng điều đã được thấy, không có tưởng tượng những cái gì không được thấy, không có tưởng tượng những gì cần phải thấy, không có tưởng tượng đối với người thấy. Ðã nghe những gì cần nghe, nhưng không có tưởng tượng điều đã được nghe, không có tưởng tượng những cái gì không được nghe, không có tưởng tượng những gì cần phải nghe, không có tưởng tượng đối với người nghe_...”.
